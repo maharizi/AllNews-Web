@@ -1,0 +1,29 @@
+body {
+    direction: rtl;
+
+    background-image: url(images/news.png);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: local;
+    height: auto;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    align-content: space-between;
+}
+
+nav .container .nav_inside a {
+    color: white;
+    text-decoration: none;
+    padding: 0 12px;
+}
+
+nav .container .nav_inside>a:nth-of-type(1n+2):hover {
+    color: gold
+}
+
+nav .container .nav_inside a[href="q&a.html"] {
+    color: gold;
+}

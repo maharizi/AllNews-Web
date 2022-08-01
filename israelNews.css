@@ -1,0 +1,50 @@
+body {
+    direction: rtl;
+
+    background-image: url(images/news.png);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: auto;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    align-content: space-between;
+}
+
+nav .container .nav_inside a {
+    color: white;
+    text-decoration: none;
+    padding: 0 12px;
+}
+
+nav .container .nav_inside>a:nth-of-type(1n+2):hover {
+    color: gold
+}
+
+nav .container .nav_inside a[href="israelNews.html"] {
+    color: gold;
+}
+
+main {
+    background-image: url(images/news.png);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 800px;
+    padding: 8px;
+    color: white;
+    text-align: center;
+}
+
+main .container form{
+    width: auto;
+    min-height: 90px;
+}
+
+main .container form .img-thumbnail {
+    min-width: 200px;
+    max-height: 90px;
+}
