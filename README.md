@@ -1,6 +1,6 @@
 # AllNews-Web
 
-[(allthenews.netlify.app)](https://allthenews.netlify.app/)
+To the website [Click Here](https://allthenews.netlify.app/)
 
 ##---This website was developed by Maor Maharizi---##
 
