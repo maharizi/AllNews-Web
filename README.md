@@ -1,5 +1,7 @@
 # AllNews-Web
 
+link : allthenews.netlify.app/
+
 ##---This website was developed by Maor Maharizi---##
 
 ![home](https://user-images.githubusercontent.com/69205898/188851913-150e4886-10ec-4e80-845e-f160c62a405e.png)
